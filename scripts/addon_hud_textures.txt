@@ -1,0 +1,14 @@
+""
+{
+    "TextureData"
+    {
+        "minimap_banana" //EDIT THIS
+        {
+            "file"     "materials/vgui/hud/minimap_banana.vmat" //EDIT THIS
+            "x"        "0"
+            "y"        "0"
+            "width"    "64"
+            "height"   "64"
+        }
+    }
+}
